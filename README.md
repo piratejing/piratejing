@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p>Currently a Registered Nurse</p>
-🌱 I’m currently learning how to be a Full Stack Software Engineer through the Practicum Bootcamp.
-Follow me on my journey to become a Software Engineer!
-💬 Ask me about Practicum and my experience so far!
+<div>🌱 I’m currently learning how to be a Full Stack Software Engineer through the Practicum Bootcamp.</div>
+<div>Follow me on my journey to become a Software Engineer!</div>
+<div>💬 Ask me about Practicum and my experience so far!</div>
