@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Currently a Registered Nurse 
+🌱 I’m currently learning how to be a Full Stack Software Engineer through the Practicum Bootcamp.
+Follow me on my journey to become a Software Engineer!
+💬 Ask me about Practicum and my experience so far!
