@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 - Follow me on my journey to become a Software Engineer!
 
+<img src="https://practicum-content.s3.us-west-1.amazonaws.com/resources/Aspiring_Front-End_Engineer_1674816526.png" width="60%">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alan-shieh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alan-shieh" height="30" width="40" /></a>
