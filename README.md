@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Alan Shieh</h1>
-<h3 align="center">Registered Nurse turned Brogrammer</h3>
+<h3 align="center">Registered Nurse turning Software Engineer</h3>
 <img src="https://camo.githubusercontent.com/159c8486f62d8d6947a2c1dc76026fe59717d682ac9485bf6561ea8fadf7b954/68747470733a2f2f692e696d6775722e636f6d2f764c4a594433612e706e67" width="50%" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piratejing&label=Profile%20views&color=0e75b6&style=flat" alt="piratejing" /> </p>
