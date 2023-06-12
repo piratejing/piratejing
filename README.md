@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 - Follow me on my journey to become a Software Engineer!
 
 <img src="https://practicum-content.s3.us-west-1.amazonaws.com/resources/Front-End-Engineer_1674816738.png" width="60%">
+<img src="https://practicum-content.s3.us-west-1.amazonaws.com/resources/React_Engineer_1674817176.png" width="60%">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
