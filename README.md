@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alan-shieh/](https://www.linkedin.com/in/alan-shieh/)
 
-- 💬 Ask me about Practicum and my experience so far!
+- 💬 Ask me about TripleTen and my experience so far!
 
 - Follow me on my journey to become a Software Engineer!
 
