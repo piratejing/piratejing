@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piratejing&label=Profile%20views&color=0e75b6&style=flat" alt="piratejing" /> </p>
 
-- 🌱 I’m currently learning how to be a Full Stack Software Engineer through the Practicum Bootcamp.
+- 🌱 I’m currently learning how to be a Full Stack Software Engineer through the TripleTen Bootcamp.
 
 - 🔭 I’m currently working on **many projects to build my portfolio**
 
