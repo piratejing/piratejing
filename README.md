@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piratejing&label=Profile%20views&color=0e75b6&style=flat" alt="piratejing" /> </p>
 
-- 🌱 I’m currently learning how to be a Full Stack Software Engineer through the TripleTen Bootcamp.
+- 🌱 I’m a graduate of TripleTen's Software Engineer Bootcamp.
 
 - 🔭 I’m currently working on **many projects to build my portfolio**
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about TripleTen and my experience so far!
 
-- Follow me on my journey to become a Software Engineer!
+- Follow me on my journey to become a Full Stack Software Engineer!
 
 <img src="https://practicum-content.s3.amazonaws.com/resources/Full-Stack_Software_Engineer_1690352123.png" width="60%">
 <img src="https://practicum-content.s3.us-west-1.amazonaws.com/resources/React_Engineer_1674817176.png" width="60%">
