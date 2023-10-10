@@ -34,6 +34,11 @@ Here are some ideas to get you started:
 
 - Follow me on my journey to become a Full Stack Software Engineer!
 
+- <a href="https://alan-shieh-website.surge.sh/#"> Personal Website</a>
+
+- <a href="https://alan-portfolio.surge.sh/"> Portfolio </a>
+
+
 <img src="https://practicum-content.s3.amazonaws.com/resources/Full-Stack_Software_Engineer_1690352123.png" width="60%">
 <img src="https://practicum-content.s3.us-west-1.amazonaws.com/resources/React_Engineer_1674817176.png" width="60%">
 
