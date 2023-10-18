@@ -25,7 +25,7 @@ Full-Stack Software Engineer coming from a nursing background who brings determi
 
 - I’m a graduate of TripleTen's Software Engineer Bootcamp.
 
-- I’m currently working on **many projects to build my <a href="https://alan-portfolio.surge.sh/">portfolio</a>**
+- I’m currently working on **a Meme Generator using React.js to add to my <a href="https://alan-portfolio.surge.sh/">portfolio</a>**
 
 - I'm consistently looking to advance my knowledge and migrate toward Web3 and AI
 
