@@ -18,21 +18,20 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Alan Shieh</h1>
 <h3 align="center">Registered Nurse turned Software Engineer</h3>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piratejing&label=Profile%20views&color=0e75b6&style=flat" alt="piratejing" /> </p>
 
-- 🌱 I’m a graduate of TripleTen's Software Engineer Bootcamp.
+Full-Stack Software Engineer coming from a nursing background who brings determination, ambition, and resourcefulness to create unique contributions to the web3 and AI technology sector. I use React Hooks for captivating user interfaces, MongoDB for robust data management, and adhere to OOP principles for scalable code structures. With Git for collaboration, I specialize in responsive web design and effective cross-functional communication. My future goal is to bridge nursing and software development, leveraging my skills to advance AI and web3 technologies for innovative applications, data management, and decentralized systems.
 
-- 🔭 I’m currently working on **many projects to build my portfolio**
 
-- 📫 How to reach me **piratejing41@gmail.com**
+- I’m a graduate of TripleTen's Software Engineer Bootcamp.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/alan-shieh/](https://www.linkedin.com/in/alan-shieh/)
+- I’m currently working on **many projects to build my <a href="https://alan-portfolio.surge.sh/">portfolio</a>**
 
-- 💬 Ask me about TripleTen and my experience so far!
+- I'm consistently looking to advance my knowledge and migrate toward Web3 and AI
 
-- Follow me on my journey to become a Full Stack Software Engineer!
+- How to reach me **alanshieh41@gmail.com**
+
+- Know about my experiences [https://www.linkedin.com/in/alan-shieh/](https://www.linkedin.com/in/alan-shieh/)
 
 - <a href="https://alan-shieh-website.surge.sh/#"> Personal Website</a>
 
