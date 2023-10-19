@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Alan Shieh</h1>
-<h3 align="center">Software Engineer Registered Nurse</h3>
+<h3 align="center">Software Engineer / Registered Nurse</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piratejing&label=Profile%20views&color=0e75b6&style=flat" alt="piratejing" /> </p>
 
 Full-Stack Software Engineer coming from a nursing background who brings determination, ambition, and resourcefulness to create unique contributions to the web3 and AI technology sector. I use React Hooks for captivating user interfaces, MongoDB for robust data management, and adhere to OOP principles for scalable code structures. With Git for collaboration, I specialize in responsive web design and effective cross-functional communication. My future goal is to bridge nursing and software development, leveraging my skills to advance AI and web3 technologies for innovative applications, data management, and decentralized systems.
